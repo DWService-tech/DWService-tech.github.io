@@ -1,0 +1,11 @@
+title: "DWService Desktop Client"
+description: "Official setup guide, system requirements and download for DWService Windows x64 remote management client."
+baseurl: ""
+url: ""
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
